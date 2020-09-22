@@ -35,5 +35,5 @@
   font-family: 'EXEPixelPerfect';
   src:
     local('EXEPixelPerfect'),
-    url('/assets/fonts/EXEPixelPerfect.ttf') format('truetype');
+    url('/fonts/EXEPixelPerfect.ttf') format('truetype');
 }
