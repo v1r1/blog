@@ -30,6 +30,7 @@
   --font-primary: 'EXEPixelPerfect', sans-serif;
   --font-secondary: 'EXEPixelPerfect', sans-serif;
   --font-header: 'EXEPixelPerfect', sans-serif;
+  --font-size: 150%;
 }
 
 @font-face {
