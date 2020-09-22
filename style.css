@@ -19,13 +19,18 @@
   --background-border-color: #1d1d1d;
   --border-bg-color: #222;
 
-  --background: #111;
+  --background: #000;
+
+  --border-type: double;
+  --border-thickness: 4px;
+  --border-radius: 0px;
+  --border-color: lime;
 
   --scrollbar-width: 5px;
   --scrollbar-track: #111;
   --scrollbar-handle: grey;
 
-  --max-width: 900px;
+  --max-width: 600px;
 
   --font-primary: 'EXEPixelPerfect', sans-serif;
   --font-secondary: 'EXEPixelPerfect', sans-serif;
@@ -38,4 +43,8 @@
   src:
     local('EXEPixelPerfect'),
     url('/fonts/EXEPixelPerfect.ttf') format('truetype');
+}
+
+.vs {
+  border: var(--border);
 }
