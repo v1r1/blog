@@ -9,6 +9,7 @@
   --color-accent-4: limegreen;
 
   --color-logo: white;
+  --color-text: var(--color-accent-1);
 
   --color-main-1: #222;
   --color-main-2: #111;
@@ -46,6 +47,10 @@
 
 #content-area {
   height:500px;
+}
+
+nav {
+  padding: 0 3px;
 }
 
 .vs {
