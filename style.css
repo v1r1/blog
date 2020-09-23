@@ -1,8 +1,7 @@
 @charset 'UTF-8';
 :root {
-  --y-axis-page-align: flex-start;
+  --y-axis-page-align: center;
   --x-axis-page-align: center;
-  --text-align: center;
 
   --color-accent-1: rgb(77, 166, 81);
   --color-accent-2: lime;
