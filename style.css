@@ -52,7 +52,9 @@
 nav {
   padding: 0 3px;
 }
-
+nav a {
+  color: var(--color-accent-1);
+}
 .vs {
   border: var(--border);
 }
