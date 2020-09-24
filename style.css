@@ -45,6 +45,12 @@
     url('/fonts/EXEPixelPerfect.ttf') format('truetype');
 }
 
+.content-wrapper {
+  border: var(--border);
+  background: var(--border-bg-color);
+  padding: 10px;
+}
+
 #content-area {
   height: 500px;
   overflow: auto;
