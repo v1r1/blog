@@ -46,7 +46,7 @@
 }
 
 .content-wrapper {
-  border: var(--border);
+  border: var(--border-thickness) var(--border-type) var(--border-color);
   background: var(--border-bg-color);
   padding: 10px;
 }
