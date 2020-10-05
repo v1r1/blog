@@ -15,10 +15,6 @@
   --color-main-2: #111;
   --color-main-3: lime;
 
-  --background-color: transparent;
-  --background-border-color: #1d1d1d;
-  --border-bg-color: #0d0d0d;
-
   --background: #000;
 
   --border-type: double;
@@ -57,12 +53,6 @@
   padding: 5px;
 }
 
-nav {
-  padding: 0 3px;
-}
 nav a {
   color: var(--color-accent-1);
-}
-.vs {
-  border: var(--border);
 }
